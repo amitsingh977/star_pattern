@@ -1,3 +1,4 @@
+//star pattern with right angled triangle
 #include<stdio.h>
 int main()
 {
